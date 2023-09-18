@@ -1,3 +1,4 @@
+![Personal banner](https://github.com/Draksha-the-decoder/Draksha-the-decoder/blob/main/My%20Banner.png)
 <h1 align="center">Hi 👋, I'm Draksha</h1>
 <h3 align="center">An emerging Software Engineer from India</h3>
 
